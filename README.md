@@ -1,5 +1,5 @@
 
-# ResNet50-HelmDetection
+# ResNet50-HelmDetection [Basic project]
 
 ## Overview
 This project implements a Helm Detection system using the ResNet50 Models. Helm detection is a crucial task in maritime safety and navigation, aiming to detect and classify the presence of helms in images, but this project is a basic detection.
